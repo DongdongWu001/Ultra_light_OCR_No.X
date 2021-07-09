@@ -29,4 +29,4 @@ model_name:large
 
 ## 使用方式
 A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/usercenter)(详见OCRlight.ipynb)
-B：
+B：model下为checkpoints
