@@ -5,8 +5,7 @@
 
 ## 项目结构
 ```
--|data
--|work
+-|model
 -README.MD
 -OCRlight.ipynb
 ```
